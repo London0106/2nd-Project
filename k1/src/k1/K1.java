@@ -17,7 +17,14 @@ public class K1 {
     public static void main(String[] args) {
 //        Suhu mula-mula suatu ruang penyimpanan ikan adalah 26°C. Ruangan tersebut akan digunakan
 //untuk menyimpan ikan, sehingga suhu diturunkan menjadi 4°C di bawah nol. Berapa besar perubahan suhu di dalam ruangan tersebut ?
-        // TODO code application logic here
+        // TODO code application logic here 
+        
+        int totalSuhu= 26 - 4 ;
+        System.out.println(" Answer = "+totalSuhu);
+          
+        
+     
     }
+    
     
 }

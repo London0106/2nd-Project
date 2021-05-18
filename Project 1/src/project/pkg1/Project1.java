@@ -89,10 +89,12 @@ public class Project1 {
 // Berapa ekor kambing dan ayam yang dipotong di pasar itu?
 
          
-         int totalAyam = 200 / 2 ;
-         int totalKambing = 120 / 4 ;
-         System.out.println(" total Ayam = "+totalAyam);
-         System.out.println("total Kambing = "+totalKambing);
+//         int totalAyam = 200 / 2 ;
+//         int totalKambing = 120 / 4 ;
+//         System.out.println(" total Ayam = "+totalAyam);
+//         System.out.println("total Kambing = "+totalKambing);
+
+ 
       
         
          
