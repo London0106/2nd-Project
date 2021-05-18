@@ -19,7 +19,7 @@ public class K1 {
 //untuk menyimpan ikan, sehingga suhu diturunkan menjadi 4°C di bawah nol. Berapa besar perubahan suhu di dalam ruangan tersebut ?
         // TODO code application logic here 
         
-        int totalSuhu= 26 - 4 ;
+        int totalSuhu = 26 - 4 ;
         System.out.println(" Answer = "+totalSuhu);
           
         
